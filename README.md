@@ -4,7 +4,7 @@ This is my personal portfolio website built with React, showcasing my interests,
 
 ## 🌐 Live Demo
 
-👉 In Progress
+👉 https://jaiibatra.github.io/portfolio-website
 
 ## 📸 Preview
 
