@@ -6,10 +6,6 @@ This is my personal portfolio website built with React, showcasing my interests,
 
 👉 https://jaiibatra.github.io/portfolio-website
 
-## 📸 Preview
-
-![Portfolio Screenshot](./screenshot.png) <!-- Optional: Add a screenshot of your site -->
-
 ## 🛠 Tech Stack
 
 - **React** (Vite or CRA)
